@@ -1,23 +1,24 @@
-[2017/09/10 16:22:30 DEBUG 140735204728832 init_service@src/main.cpp: 19] open debug log
-[2017/09/10 16:22:46 DEBUG 140735204728832 booking_place@src/booking_management.cpp: 44] 2017-08-01 18:00~20:00: date time is conflict
-[2017/09/10 16:22:46 DEBUG 140735204728832 startService@src/main.cpp: 59] U003 2017-08-01 18:00~20:00 A: argv conflicts
-[2017/09/10 16:22:57 DEBUG 140735204728832 cancel_place@src/booking_management.cpp: 79] 2017-08-01 19:00~22:00: date time is error
-[2017/09/10 16:22:57 DEBUG 140735204728832 startService@src/main.cpp: 74] U002 2017-08-01 19:00~22:00 A C: argv not exist
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 145] 2017-08-01 18:00~20:00: calc price
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 172] 2017-08-01 18:00~20:00: wday=2 workday
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 187] 2017-08-01 18:00~20:00: 18 +80
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 187] 2017-08-01 18:00~20:00: 19 +80
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 201] 2017-08-01 18:00~20:00: sum: 160
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 145] 2017-08-01 19:00~22:00: calc price
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 172] 2017-08-01 19:00~22:00: wday=2 workday
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 187] 2017-08-01 19:00~22:00: 19 +80
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 193] 2017-08-01 19:00~22:00: 20 +60
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 193] 2017-08-01 19:00~22:00: 21 +60
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 201] 2017-08-01 19:00~22:00: sum: 100
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 145] 2017-08-02 13:00~17:00: calc price
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 172] 2017-08-02 13:00~17:00: wday=3 workday
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 181] 2017-08-02 13:00~17:00: 13 +50
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 181] 2017-08-02 13:00~17:00: 14 +50
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 181] 2017-08-02 13:00~17:00: 15 +50
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 181] 2017-08-02 13:00~17:00: 16 +50
-[2017/09/10 16:23:13 DEBUG 140735204728832 do_calc_price@src/booking_management.cpp: 201] 2017-08-02 13:00~17:00: sum: 200
+[2017/09/10 17:40:15 DEBUG 140735204728832 init_service@src/main.cpp: 20] open debug log
+[2017/09/10 17:40:21 DEBUG 140735204728832 startService@src/main.cpp: 74] keuhfioweubf werflunwje fwefnwe  we fvweirnv: argv error
+[2017/09/10 17:41:12 DEBUG 140735204728832 booking_place@src/booking_management.cpp: 52] 2017-08-01 18:00~20:00: date time is conflict
+[2017/09/10 17:41:12 DEBUG 140735204728832 startService@src/main.cpp: 66] U003 2017-08-01 18:00~20:00 A: argv conflicts
+[2017/09/10 17:41:24 DEBUG 140735204728832 cancel_place@src/booking_management.cpp: 96] 2017-08-01 19:00~22:00: date time is error
+[2017/09/10 17:41:24 DEBUG 140735204728832 startService@src/main.cpp: 82] U002 2017-08-01 19:00~22:00 A C: argv not exist
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 167] 2017-08-01 18:00~20:00: calc price
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 194] 2017-08-01 18:00~20:00: wday=2 workday
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 209] 2017-08-01 18:00~20:00: 18 +80
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 209] 2017-08-01 18:00~20:00: 19 +80
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 223] 2017-08-01 18:00~20:00: sumPrice: 160
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 167] 2017-08-01 19:00~22:00: calc price
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 194] 2017-08-01 19:00~22:00: wday=2 workday
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 209] 2017-08-01 19:00~22:00: 19 +80
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 215] 2017-08-01 19:00~22:00: 20 +60
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 215] 2017-08-01 19:00~22:00: 21 +60
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 223] 2017-08-01 19:00~22:00: sumPrice: 100
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 167] 2017-08-02 13:00~17:00: calc price
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 194] 2017-08-02 13:00~17:00: wday=3 workday
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 203] 2017-08-02 13:00~17:00: 13 +50
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 203] 2017-08-02 13:00~17:00: 14 +50
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 203] 2017-08-02 13:00~17:00: 15 +50
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 203] 2017-08-02 13:00~17:00: 16 +50
+[2017/09/10 17:41:36 DEBUG 140735204728832 calc_price@src/booking_management.cpp: 223] 2017-08-02 13:00~17:00: sumPrice: 200
