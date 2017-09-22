@@ -1,5 +1,6 @@
 #include <utility>
 #include <iostream>
+#include <cstring>
 #include <algorithm>
 #include "booking_management.h"
 #include "date_util.h"
